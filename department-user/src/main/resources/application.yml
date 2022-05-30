@@ -2,7 +2,7 @@ server:
   port: 8080
 spring:
   application:
-    name: Department-Service
+    name: DEPARTMENT-SERVICE
   datasource:
     url: jdbc:mysql://localhost:3306/department_user
     password: root
